@@ -1,8 +1,22 @@
-# Trend-Centric Recommendation System
+# Trend-Centric Recommendation System 
 
-Welcome to the Trend-Centric Recommendation System project! This repository contains the implementation of a sophisticated recommendation system designed to deliver personalized product suggestions based on users' past purchases, browsing behavior, saved items, and preferences.
+Welcome to the Trend-Centric Recommendation project! This repository contains the implementation of a sophisticated recommendation system designed to deliver personalized product suggestions based on users' past purchases, browsing behavior, saved items, and preferences. 
 
-## Dataset Description
+This project also demonstrates a virtual try-on feature using computer vision techniques. Users can try on different virtual shirts overlaid on their live video feed from a webcam or recorded video.
+
+"Visualization is the new trend, bringing digital experiences closer to reality."
+
+## Features Of The Virtual Try-on
+1. Overlay virtual shirts on detected poses in real-time video.
+2. Navigate through a collection of shirts using interactive buttons.
+3. Seamless resizing and positioning of shirts based on pose landmarks.
+
+## Requirements For The Try-On
+1. Python 3.x
+2. OpenCV
+3. cvzone (a Python library for computer vision tasks)
+
+## Dataset Description for Recommendation System
 
 ### 1. Product Data
 The product data contains detailed information about various products, such as unique identifiers, names, images, prices, ratings, brand names, and other attributes that help in making informed recommendations.
@@ -40,4 +54,6 @@ To evaluate the effectiveness of the recommendation system, we employ metrics su
 Below is an example of the recommended products for a user, displayed with images and product details.
 
 ![Recommended Products](img1.png)
+
+##
 
