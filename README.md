@@ -1,1 +1,1 @@
-# Trendcentric-Fashion-Recomendation-System
+# Trendcentric-Recommendation-System
