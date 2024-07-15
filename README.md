@@ -39,5 +39,5 @@ To evaluate the effectiveness of the recommendation system, we employ metrics su
 
 Below is an example of the recommended products for a user, displayed with images and product details.
 
-![Recommended Products](path/to/your/image.png)
+![Recommended Products](img1.png)
 
