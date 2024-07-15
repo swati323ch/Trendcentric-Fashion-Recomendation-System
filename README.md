@@ -15,6 +15,8 @@ This project also demonstrates a virtual try-on feature using computer vision te
 1. Python 3.x
 2. OpenCV
 3. cvzone (a Python library for computer vision tasks)
+4. Pandas
+5.scikit-learn
 
 ## Dataset Description for Recommendation System
 
