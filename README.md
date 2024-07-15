@@ -55,5 +55,7 @@ Below is an example of the recommended products for a user, displayed with image
 
 ![Recommended Products](img1.png)
 
+![Recommended Products](website.png)
+
 ##
 
